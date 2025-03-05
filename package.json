@@ -1,0 +1,25 @@
+{
+  "name": "roadmap_projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vianam92/roadmap_projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vianam92/roadmap_projects/issues"
+  },
+  "homepage": "https://github.com/Vianam92/roadmap_projects#readme",
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
