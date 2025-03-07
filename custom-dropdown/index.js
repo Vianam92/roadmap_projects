@@ -1,4 +1,4 @@
-"strict";
+"use strict";
 
 const selectElement = document.querySelector(".select-principal");
 const textSelect = document.querySelector(".text-select");
